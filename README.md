@@ -1,5 +1,7 @@
 # Vuetify Webpack SSR Template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/idealley/vuetify.svg)](https://greenkeeper.io/)
+
 > Vuetify SSR Webpack Template
 
 ## Build Setup
